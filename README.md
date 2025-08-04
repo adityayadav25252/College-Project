@@ -78,7 +78,7 @@ This application does not use an API, as it is a standalone frontend application
 👤 Author
 ================
 
-The React Campus Map was created by [Your Name], a software developer with expertise in React and web development.
+The React Campus Map was created by Aditya, a software developer with expertise in React and web development.
 
 📝 License
 ================
